@@ -1,0 +1,9 @@
+@misc{REPO108,
+    author = "Poole, Ben and Jain, Ajay and Barron, Jonathan T. and Mildenhall, Ben",
+    archiveprefix = "arXiv",
+    eprint = "2209.14988",
+    primaryclass = "cs.CV",
+    title = "{DreamFusion: Text-to-3D using 2D Diffusion}",
+    url = "https://arxiv.org/abs/2209.14988",
+    year = "2022"
+}
